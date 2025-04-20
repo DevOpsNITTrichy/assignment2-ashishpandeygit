@@ -2,3 +2,8 @@
 
 Vreqst's frontend was not running and giving some error. So just created a sample node application and ran it in the docker container.
 All screenshots and steps included in "Assignment 2_devops.pdf".
+
+Group members:
+
+205224013 Ashish Pandey
+205224016 Prasad Tak
